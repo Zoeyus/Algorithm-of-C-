@@ -1,0 +1,1 @@
+int binaryExist(int *arr, int num, int len )
